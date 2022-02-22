@@ -1,16 +1,18 @@
-### Hi there 👋
+# CHOLULA BREADBOT: Sourdough Automatic Fermenter and Quality Inspector
 
-<!--
-**TheSourdoughers/TheSourdoughers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Team: The Sourdoughers
+- [Karolay De La Cruz](https://www.linkedin.com/in/karolay-de-la-cruz/)
+- [Fernanda Rodríguez](https://www.linkedin.com/in/mfernandaroeg/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Description
+We want to propose a solution for the food industry in underdeveloped countries, initially for the Cholula bakeries in Mexico. A solution that allows to increase the production of a healthy sourdough bread by automating the fermentation process.
+We will leverage the power of technology to create a sustainable, environmentally friendly, and healthy way of living into human life by incorporating technology into artisan processes like bread production with sourdough. 
+
+## Software
+- Depth quality control
+- Appearance quality control
+- Robot Control 
+- Robot Navigation
+
+
