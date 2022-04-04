@@ -1,0 +1,5 @@
+Total: 		12791
+
+train 70%: 		8954
+validate 15%: 	1919
+test 15%: 		1918
