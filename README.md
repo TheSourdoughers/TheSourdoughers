@@ -6,9 +6,24 @@
 
 
 ## Description
-This project is part of the top 50 finalist in OAKDLiteContest. The BreadBot, is a prototype proposed to automate the process of fermentation of sourdough. We will be capable of monitoring the correct rising in the dough by measuring depth with the stereo cameras and at the same time monitor the apperance of the dough by running a YOLOv5 neural network thanks to the enourmous power and potential of the OAKDLite. 
-With this application we want to  leverage the power of technology to create a sustainable, environmentally friendly, and healthy way of living by incorporating technology into artisan processes. 
+This project is part of the top 50 finalist in OAKDLiteContest. The BreadBot, is a prototype proposed to automate the 
+process of fermentation of sourdough, a solution that allows increasing the production of healthy sourdough bread. With 
+this application we want to  leverage the power of technology to create a sustainable, environmentally friendly, 
+and healthy way of living by incorporating technology into artisan processes. 
 
+We are capable of monitoring the appearance and height of the dough thanks to the enormous power and potential of 
+the OAKDLite. Additionally, LEGO Mindstorms Robot Inventor kit is used to navigate between flour/water containers and to
+mix the dough.
+
+<img src="/dataset/Fig1.jpg" alt="Alt text" title="Optional title">
+
+## Dataset
+The dataset of our quality inspector
+-   Dataset: 400 jpg images
+-   Train: 80%
+-   Validate: 10%
+-   Test: 10%
+ 
 ## Software
 - Depth quality control
 - Appearance quality control
