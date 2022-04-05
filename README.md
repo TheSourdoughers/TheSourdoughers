@@ -15,7 +15,7 @@ We are capable of monitoring the appearance and height of the dough thanks to th
 the OAKDLite. Additionally, LEGO Mindstorms Robot Inventor kit is used to navigate between flour/water containers and to
 mix the dough.
 
-[![Watch the video](.\dataset\Fig1.png)](https://www.youtube.com/watch?v=OJnjwUVRSP4)
+[![Watch the video](./dataset/Fig1.png)](https://www.youtube.com/watch?v=OJnjwUVRSP4)
 
 ## Dataset
 The dataset of our quality inspector
