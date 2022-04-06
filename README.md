@@ -50,12 +50,10 @@ model in order to detect the
     Input:
     - OAKD-Lite frames
     
-    Appearance output:
+    Output:
     - Good Quality: Let the sourdough rest
     - Bad Quality: Need to feed sourdough 
-    - Empty: Add elements to the container 
-    
-    Depth output:   
+    - Empty: Add elements to the container  
     - Sourdough height in cm
        
 
