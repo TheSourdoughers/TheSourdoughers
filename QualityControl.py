@@ -7,10 +7,9 @@ modelPath = './models/yolo_v4_tiny_openvino_2021.3_6shave.blob'
 modelLabels = ["Empty: Add elements to the container",
                "Good Quality: Let the sourdough rest",
                "Bad Quality: Need to feed sourdough", ]
-white = (255, 255, 255)
-green = (0, 255, 0)
 red = (255, 0, 0)
 blue = (0, 0, 255)
+green = (0, 255, 0)
 yellow = (255, 255, 0)
 colorsl = [yellow, red, blue]
 
@@ -65,7 +64,6 @@ detectionNetwork.out.link(nnOut.input)
 left.out.link(stereo.left)
 right.out.link(stereo.right)
 stereo.depth.link(detectionNetwork.inputDepth)
-
 
 with dai.Device(pipeline) as device:
     qRgb = device.getOutputQueue(name="rgb", maxSize=4, blocking=False)
