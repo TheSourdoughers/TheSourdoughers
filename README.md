@@ -42,24 +42,25 @@ Another of the elements used for the implementation of the project are listed be
 
 ## Software
 -	**Depth & appearance quality control**: This script is the one that runs on OAKD-Lite a custom made tiny YOLO v4 
-model in order to detect the 
-   sourdough and its quality.
-    
-    QualityControl.py
-    
+model in order to detect the sourdough and its quality.
+
+
+```
+   QualityControl.py
+
     Input:
     - OAKD-Lite frames
     
-    Output:
+   Output:
     - Good Quality: Let the sourdough rest
     - Bad Quality: Need to feed sourdough 
     - Empty: Add elements to the container  
     - Sourdough height in cm
-       
+```   
 
 -	**Robot control & navigation**: this script establish bluetooth communication between the Lego 
 controller and Raspberry pi.
-
+```
     RobotControl.py
      
     Input:
@@ -68,7 +69,7 @@ controller and Raspberry pi.
     
     Output:    
     - Navigation instructions
-    
+```      
 
 
 
